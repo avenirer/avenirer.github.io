@@ -1,3 +1,7 @@
+---
+title: Banca Transilvania (TLV) - Dividende
+---
+
 | Ex-date        | Data plății    | Valoare    |
 | -------------- | -------------- | ---------- |
 | **2025-06-16** | **2025-06-30** | 1,7333 RON |
