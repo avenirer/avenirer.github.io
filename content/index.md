@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Avenirer's Digital Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+How's everyone?
