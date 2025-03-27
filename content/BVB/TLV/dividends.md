@@ -1,5 +1,5 @@
 ---
-title: Banca Transilvania (TLV) - Dividende
+title: Dividende
 ---
 
 | Ex-date        | Data plății    | Valoare    |

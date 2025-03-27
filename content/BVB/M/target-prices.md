@@ -1,5 +1,5 @@
 ---
-title: Medlife (M) - Prețuri țintă
+title: Prețuri țintă
 ---
 
 | Data       | Preț     | Recomandare | Agenție    |
