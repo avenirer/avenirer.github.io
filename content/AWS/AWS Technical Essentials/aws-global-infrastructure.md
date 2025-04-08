@@ -17,4 +17,4 @@ Multiple AZs are also in a cluster called **Region**.
 
 ## Global Edge Network
 
-Consists of **edge locations** and **regional edge caches** which are used to cache content closer to end users, reducing latency. These can be used to cache frequently accessed content. **Amazon CloudFront** can be used to cache content using edge locations.
+Consists of **edge locations** and **regional edge caches** which are used to cache content closer to end users, reducing latency. These can be used to cache frequently accessed content. **[[cloudfront.md | Amazon CloudFront]]** can be used to cache content using edge locations.
