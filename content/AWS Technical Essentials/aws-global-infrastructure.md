@@ -1,5 +1,5 @@
 ---
-title: AWS global infrastructure
+title: 02. AWS global infrastructure
 ---
 
 Storing files on an AWS server, we have access to it from anywhere. AWS is prepared for any accidents on Data centers, having redundancy. Same information is saved on multiple data centers.
