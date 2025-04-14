@@ -6,7 +6,7 @@ title: 01. Why cloud technology is transforming businesses
 
 Typically there are three types of cloud computing service models available in public cloud:
 
-1. **IaaS** - Infrastructure as a service offers compute and storage services.
+1. **[[cloud-computing-models-shared-responsibility#IaaS|IaaS]]** - Infrastructure as a service offers compute and storage services.
 2. **PaaS** - Platform as a service offers a develop-and-deploy environment to build cloud apps.
 3. **SaaS** - Software as a service delivers apps as services; users get access to software on a subscription basis.
 
